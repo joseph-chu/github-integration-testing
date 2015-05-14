@@ -1,0 +1,16 @@
+ok 1 Chrome 42.0 - [Functional] God save our gracious Queen! 
+    ---
+        Log: >
+            Anonymous
+    ...
+ok 2 Chrome 42.0 - [Functional] Long live our noble Queen! 
+ok 3 Chrome 42.0 - [Functional] God save the Queen! 
+ok 4 Chrome 42.0 - [Functional] Send her victorious, 
+ok 5 Chrome 42.0 - [Functional] Happy and glorious, 
+ok 6 Chrome 42.0 - [Functional] Long to reign over us, 
+ok 7 Chrome 42.0 - [Functional] God save the Queen.
+
+1..7
+# tests 7
+# pass  7
+# fail  0
